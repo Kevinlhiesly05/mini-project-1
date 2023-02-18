@@ -86,7 +86,7 @@ body {
     animation: changetext 10s infinite linear;
 }
 @keyframes changetext{
-    5%{content: "Davao Crocodile Park";}
+    10%{content: "Davao Crocodile Park";}
     10%{content: "Mount Apo";}
     20%{content: "Samal Island";}
     30%{content: "People's Park";}
